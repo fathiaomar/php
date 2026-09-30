@@ -25,5 +25,5 @@ A collection of PHP scripts, exercises, and small functional modules built while
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
+git clone https://github.com/fathiaomar/php.git
+cd php
